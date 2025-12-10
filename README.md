@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello There,
 
-<!--
-**A-nicole-agbadabunia/A-nicole-agbadabunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm April Nicole Agbadabunia, a first year Computer Science student at Leeds Beckett University.
+A bit about me:
+- I'm 19 Years old
+- My favourite programming languages are C# and C.
+- I have been studdying Computer Science at GCSE and A-level
+- My faveourite project was an arduino board project that I did during Christmas at collage which flashed the morse code for "Merry Christmas"
+- I am a windows user... sad ik
+- My team reached the semi-finals for the Cyber Centurion during my time at collage.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My linked-In can be seen as on my profile page as well as my email.
+<3
